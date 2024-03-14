@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #a69068;
+  background-color: #000000;
   padding: 20px;
   text-align: center;
   font-family: "Oswald", sans-serif;
@@ -63,4 +63,9 @@ main {
 
 .character:hover .lightbox {
   display: block;
+}
+
+.logo {
+  width: 500px;
+  height: auto;
 }
