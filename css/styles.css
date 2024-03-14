@@ -2,7 +2,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #40371d;
+
+  background-image: url("https://images.alphacoders.com/125/1254595.jpg");
+
+  background-size: cover;
+  background-position: center;
+
   color: #d6d9d0;
 }
 
